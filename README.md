@@ -34,5 +34,5 @@ if you want to delete the object file and the library:
 
 ### Simone Tartaglia -  startaglia89@gmail.com </br>
 <p align="left">
-  <a href="https://github.com/startaglia" target="blank" marginright = "10" ><img align="center" src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" height="40" width="40" /></a> <a href="https://www.linkedin.com/in/simone-tartaglia-134723248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simone-tartaglia-134723248/" height="40" width="40" /></a>
+  <a href="https://github.com/startaglia" target="_blank" style="margin-right: 10px;"><img align="center" src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" height="40" width="40" /></a> <a href="https://www.linkedin.com/in/simone-tartaglia-134723248/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simone-tartaglia-134723248/" height="40" width="40" /></a>
 </p>
