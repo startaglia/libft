@@ -12,7 +12,7 @@ To create the library, download/clone the repo and create a lib with make comman
   make
   ```
 
-If you want to recompile the object file so remake the library:
+If you want to remake the object file so remake the library:
 
   ```sh
   make re
